@@ -25,6 +25,4 @@ class PCA():
 
     def fit(self, a):
         assert(len(a) == self.n_components)
-
-
-
+        
